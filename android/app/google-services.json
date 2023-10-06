@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "900806889390",
+    "project_id": "flutter-project-7777",
+    "storage_bucket": "flutter-project-7777.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:900806889390:android:5406fc839bd1887a90423f",
+        "android_client_info": {
+          "package_name": "com.example.flutter_firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "900806889390-u6utj7erl70sit833e0jv08iu32i0q9q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDgo7hF0e_rTu4CLJtQXcpa1imWk35g4gs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "900806889390-u6utj7erl70sit833e0jv08iu32i0q9q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:900806889390:android:f2e4aa38e2476e8290423f",
+        "android_client_info": {
+          "package_name": "com.example.insta_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "900806889390-u6utj7erl70sit833e0jv08iu32i0q9q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDgo7hF0e_rTu4CLJtQXcpa1imWk35g4gs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "900806889390-u6utj7erl70sit833e0jv08iu32i0q9q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
